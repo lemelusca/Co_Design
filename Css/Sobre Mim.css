@@ -1,0 +1,33 @@
+div {	
+	width: 1280px;
+	margin: auto;
+}
+
+
+
+
+img{
+	float: left;
+}
+
+
+.Titulo{
+	margin: 10px 0px 10px 0px;
+}
+
+.Curso{
+	margin: 10px 0px 0px 0px;
+}
+
+
+.Semestre{
+	margin: 10px 0px 0px 0px;
+}
+
+.Descrição{
+	margin: 10px 300px 0px 0px;
+}
+
+.Voltar{
+	margin: 20px 0px 0px 0px;
+}
