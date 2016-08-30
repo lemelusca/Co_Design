@@ -1,0 +1,26 @@
+div {	
+	width: 1280px;
+	margin: auto;
+}
+
+
+footer{
+	position: relative;
+	height: 60px;
+}
+
+.Voltar{
+	margin: 20px 0px 0px 0px;
+}
+
+.Titulo{
+	margin: 10px 0px 10px 0px;
+}
+
+.Descrição{
+	margin: 10px 300px 0px 0px;
+}
+
+.Projetos{
+	margin: 10px 0px 0px 0px;	
+}

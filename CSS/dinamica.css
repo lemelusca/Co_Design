@@ -1,0 +1,49 @@
+div {	
+	width: 1280px;
+	margin: auto;
+}
+
+
+
+
+img{
+	float: left;
+}
+
+footer{
+	position: relative;
+	height: 60px;
+}
+
+.Voltar{
+	margin: 20px 0px 0px 0px;
+}
+
+.Titulo{
+	margin: 10px 0px 10px 0px;
+}
+
+.Curso{
+	margin: 10px 0px 0px 0px;
+}
+
+
+.Semestre{
+	margin: 10px 0px 0px 0px;
+}
+
+.Tempo{
+	margin: 10px 0px 0px 0px;
+}
+
+.Design{
+	margin: 10px 0px 0px 0px;
+}
+
+.Descrição{
+	margin: 10px 300px 0px 0px;
+}
+
+.voltar{
+	margin: 10px 0px 0px 0px;
+}
