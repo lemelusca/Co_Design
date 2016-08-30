@@ -1,0 +1,25 @@
+div {
+	width: 900px;
+	margin: auto;
+}
+
+
+
+img{
+	float: left;
+}
+
+
+
+footer{
+	position: relative;
+	height: 90px;
+	margin: 10px 0px 0px 10px;
+}
+
+
+
+main{
+	margin: 10px 0px 0px 0px;
+}
+
