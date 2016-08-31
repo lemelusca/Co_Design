@@ -35,3 +35,18 @@ img{
 .Data{
 	margin: 40px 0px 0px 0px;
 }
+
+img{
+
+	margin: 0px 0px 0px 0px;
+}
+
+
+.menuitem {
+	
+	padding: 5px;
+	width: 200px;
+	float: left;
+	margin: 15px 0px 0px 0px;
+
+}

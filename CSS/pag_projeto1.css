@@ -24,3 +24,18 @@ footer{
 .Projetos{
 	margin: 10px 0px 0px 0px;	
 }
+
+img{
+
+	margin: 10px 0px 0px 0px;
+}
+
+
+.menuitem {
+	
+	padding: 5px;
+	width: 200px;
+	float: left;
+	margin: 15px 0px 0px 0px;
+
+}
