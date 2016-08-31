@@ -1,25 +1,32 @@
 div {
-	width: 900px;
+	/*border: 1px double red;*/
+	/*padding: 50px ;*/
+	width: 1280px;
 	margin: auto;
+
 }
-
-
 
 img{
+
+	margin: 20px 0px 0px 450px;
+}
+
+
+.menuitem {
+	
+	padding: 5px;
+	width: 200px;
 	float: left;
+	margin: 15px 0px 0px 20px;
+
 }
 
-
-
-footer{
-	position: relative;
-	height: 90px;
-	margin: 10px 0px 0px 10px;
+.Titulo{
+	margin: 20px 0px 0px 500px;
 }
 
-
-
-main{
-	margin: 10px 0px 0px 0px;
+.Frase{
+	margin: 20px 0px 0px 300px;
 }
+
 
