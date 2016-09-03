@@ -31,7 +31,13 @@ img{
 	margin: 20px 0px 0px 0px;
 }
 
+.teste{
+	margin: 15px 0px 0px 0px;
+	border: 1px transparent #000000;
+	float: left;
+}
 
+/*
 .menuitem {
 	
 	padding: 5px;
@@ -40,4 +46,21 @@ img{
 	margin: 15px 0px 0px 0px;
 
 }
-
+*/
+.menuitem {
+	float: left;
+	width: 200px;
+	margin: 15px 0px 0px 0px;
+	border: 1px transparent #000000;
+	padding: 5px
+	;
+	color: #999999;
+	background-color: #0013FF;
+	list-style: none;
+}
+/*
+.menu-item {
+	padding: 0.5rem;
+	position: relative;
+	transition: color .5s, background-color .5s;
+}
