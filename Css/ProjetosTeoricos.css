@@ -51,7 +51,7 @@ img{
 .menuitem {
 	float: left;
 	width: 200px;
-	margin: 15px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 	border: 1px transparent #000000;
 	padding: 5px;
 	color: #999999;
@@ -62,8 +62,8 @@ img{
 .menu-item {
 	float: left;
 	width: 200px;
-	margin: 15px 0px 0px 0px;
-	border: 1px transparent #000000;
+	margin: 0px 0px 0px 0px;
+	border: 0px transparent #000000;
 	background-color: #0013FF;
 	/*padding: 5px;
 	color: #123999;
@@ -85,8 +85,9 @@ img{
 .submenu {
 	visibility: hidden;
 	position: absolute;
-	top: 0%;
 	left: 0%;
+	top: 100%;
+
 }
 
 .menu-item:hover .submenu {
