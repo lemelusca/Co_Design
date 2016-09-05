@@ -3,7 +3,10 @@ div {
 	margin: auto;
 }
 
-
+body {
+    line-height: 1;
+    background-color: #8392ad;
+}
 
 
 img{
@@ -38,15 +41,53 @@ img{
 
 img{
 
-	margin: 0px 0px 0px 0px;
+	margin: 20px 0px 0px 0px;
 }
-
 
 .menuitem {
 	
 	padding: 5px;
 	width: 200px;
 	float: left;
-	margin: 15px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	border: 1px transparent #000000;
+	padding: 5px;
+	color: #999999;
+	background-color: #0013FF;
+	list-style: none;
+}
 
+.menu-item {
+	float: left;
+	width: 200px;
+	margin: 0px 0px 0px 0px;
+	border: 0px transparent #000000;
+	background-color: #000080;
+	padding: 5px;
+	color: #123999;
+	background-color: #000080;
+	list-style: none;
+	padding: 0.5rem;
+	position: relative;
+	transition: color .5s, background-color .5s;
+	padding: 0.5rem;
+	position: relative;
+	transition: color .5s, background-color .5s;
+}
+.menu-item:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+	cursor: pointer;
+}
+
+.submenu {
+	visibility: hidden;
+	position: absolute;
+	left: 0%;
+	top: 100%;
+
+}
+
+.menu-item:hover .submenu {
+	visibility: visible;
 }
