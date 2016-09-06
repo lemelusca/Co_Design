@@ -5,7 +5,14 @@ div {
 
 body {
     line-height: 1;
-    background-color: #8392ad;
+    background-color: #9fb6c0;
+}
+
+footer {
+	color: #FFFFFF;
+	background-color: #0013FF;
+	cursor: pointer;
+	visibility: visible
 }
 
 
@@ -65,7 +72,7 @@ img{
 	background-color: #000080;
 	padding: 5px;
 	color: #123999;
-	background-color: #000080;
+	background-color: #014ff3;
 	list-style: none;
 	padding: 0.5rem;
 	position: relative;
