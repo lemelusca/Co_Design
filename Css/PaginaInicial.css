@@ -1,46 +1,80 @@
 main {
 	width: 100%;
-	max-width: 1000px;
-	margin: 1em;
-	padding: 1rem;
+	max-width: 1280px;
+	margin: auto;
+	padding: auto;
 }
 
 
 img{
-	
-	margin: 20px 0px 0px 460px;
-}
 
-
-.menuitem {
-	
-	max-width: 1280px;
-	margin: 10px 0px 0px 40px ;
-	padding: 0rem;
-	float: left;
-	
+	margin: 30px 0px 0px 0px;
 }
 
 .menuitem2 {
 	
 	max-width: 1280px;
-	margin: 10px 0px 0px 100px ;
+	margin: 0px 0px 0px 100px ;
 	padding: 0rem;
 	float: left;
 }
 
 .Titulo{
-	margin: -10px 0px 0px 520px;
+	margin: 10px 0px 0px 0px;
 }
 
 .Titulo2{
-	margin: 30px 0px 0px 565px;
+	margin: 30px 0px 0px 0px;
 }
 
 .Frase{
-	margin: 20px 0px 0px 300px;
+	margin: 20px 0px 0px 0px;
 }
 
 .group2{
-	margin: 20px 0px 0px 330px;
+	margin: 20px 0px 0px 370px;
+}
+
+.menuitem {
+	float: left;
+	width: 200px;
+	margin: 0px 0px 0px 0px;
+	border: 1px transparent #000000;
+	padding: 5px;
+	color: #999999;
+	background-color: #0013FF;
+	list-style: none;
+}
+
+.menu-item {
+	float: left;
+	max-width: 1280px;
+	margin: 0px 0px 0px 30px;
+	border: 0px transparent #000000;
+	background-color: #0013FF;
+	padding: 0.5rem;
+	position: relative;
+	transition: color .5s, background-color .5s;
+}
+.menu-item:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+	cursor: pointer;
+}
+
+.submenu {
+	visibility: hidden;
+	position: absolute;
+	left: 0%;
+	top: 100%;
+
+}
+
+.menu-item:hover .submenu {
+	visibility: visible;
+}
+
+nav{
+	
+	background-color: #0013FF;
 }

@@ -39,16 +39,7 @@ img{
 	float: left;
 }
 
-/*
-.menuitem {
-	
-	padding: 5px;
-	width: 200px;
-	float: left;
-	margin: 15px 0px 0px 0px;
 
-}
-*/
 
 .menuitem {
 	float: left;
@@ -67,13 +58,6 @@ img{
 	margin: 0px 0px 0px 0px;
 	border: 0px transparent #000000;
 	background-color: #0013FF;
-	/*padding: 5px;
-	color: #123999;
-	background-color: #0013FF;
-	list-style: none;
-	padding: 0.5rem;
-	position: relative;
-	transition: color .5s, background-color .5s;*/
 	padding: 0.5rem;
 	position: relative;
 	transition: color .5s, background-color .5s;
