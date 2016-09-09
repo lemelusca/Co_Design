@@ -5,12 +5,13 @@ div {
 
 body {
     line-height: 1;
-    background-color: #9fb6c0;
+	background-color: #A8A7C7;    
+
 }
 
 footer {
 	color: #FFFFFF;
-	background-color: #0013FF;
+	background-color: #403D65;
 	cursor: pointer;
 	visibility: visible
 }
@@ -60,7 +61,7 @@ img{
 	border: 1px transparent #000000;
 	padding: 5px;
 	color: #999999;
-	background-color: #0013FF;
+	background-color: #403D65;
 	list-style: none;
 }
 
@@ -69,10 +70,9 @@ img{
 	width: 200px;
 	margin: 0px 0px 0px 0px;
 	border: 0px transparent #000000;
-	background-color: #000080;
 	padding: 5px;
-	color: #123999;
-	background-color: #014ff3;
+	color: #ABA4FF;
+	background-color: #403D65;
 	list-style: none;
 	padding: 0.5rem;
 	position: relative;
@@ -82,8 +82,8 @@ img{
 	transition: color .5s, background-color .5s;
 }
 .menu-item:hover {
-	color: #FFFFFF;
-	background-color: #000000;
+	color: #FFFFFF; 
+	background-color: #00234C;
 	cursor: pointer;
 }
 
