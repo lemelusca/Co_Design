@@ -9,6 +9,8 @@ footer{
 	height: 60px;
 }
 
+
+
 .Voltar{
 	margin: 20px 0px 0px 0px;
 }
@@ -61,7 +63,7 @@ img{
 
 .menu-item {
 	float: left;
-	width: 200px;
+	max-width: 1280px;
 	margin: 0px 0px 0px 0px;
 	border: 0px transparent #000000;
 	background-color: #0013FF;
