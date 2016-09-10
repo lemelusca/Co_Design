@@ -1,6 +1,13 @@
+/*
 div {	
 	width: 1264px;
 	margin: auto;
+}
+*/
+body {
+    line-height: 1;
+	background-color: #A8A7C7;    
+
 }
 
 main {
@@ -11,7 +18,7 @@ main {
 }
 
 footer{
-	position: relative;
+	position: auto;
 	height: 60px;
 }
 
@@ -48,7 +55,7 @@ img{
 .menuitem {
 	float: left;
 	width: 200px;
-	margin: 0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
 	border: transparent;
 	padding: 5px;
 	color: #999999;
