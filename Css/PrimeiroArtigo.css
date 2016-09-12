@@ -5,6 +5,15 @@ div {
 
 
 
+strong, b {
+    font-weight: bold;
+}
+
+
+h1 {
+	font-weight: bold;
+}
+
 
 img{
 	float: left;
