@@ -6,6 +6,20 @@ main {
 }
 
 
+<<<<<<< HEAD
+=======
+
+strong, b {
+    font-weight: bold;
+}
+
+
+h1 {
+	font-weight: bold;
+}
+
+
+>>>>>>> c673c4540efb604e1477dd14bafe9ba2419f6847
 img{
 	float: left;
 	

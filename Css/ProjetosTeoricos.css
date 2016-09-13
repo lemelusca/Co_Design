@@ -29,6 +29,16 @@ nav{
 	background-color: #0013FF;
 }
 
+/* colocar em negrito o que não estava em negrito */
+strong, b {
+    font-weight: bold;
+}
+
+
+h1 {
+	font-weight: bold;
+}
+
 .Voltar{
 	margin: 20px 0px 0px 0px;
 }

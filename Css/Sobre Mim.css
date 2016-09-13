@@ -1,89 +1,89 @@
+/*
 div {	
-	width: 1280px;
+	width: 1264px;
 	margin: auto;
 }
-
+*/
 body {
     line-height: 1;
 	background-color: #A8A7C7;    
 
 }
 
-footer {
-	color: #FFFFFF;
-	background-color: #403D65;
-	cursor: pointer;
-	visibility: visible
+main {
+	width: 100%;
+	max-width: 1280px;
+	margin: auto;
+	padding: auto;
 }
 
-
-img{
-	float: left;
+footer{
+	width: 100%;
+	max-width: 1280px;
+	margin: auto;
+	padding: auto;
 }
 
-
-.Titulo{
-	margin: 10px 0px 10px 0px;
-}
-
-.Curso{
-	margin: 40px 0px 0px 0px;
-}
-
-
-.Semestre{
-	margin: 40px 0px 0px 0px;
-}
-
-.Descrição{
-	margin: 30px 300px 0px 0px;
+nav{
+	
+	background-color: #0013FF;
 }
 
 .Voltar{
 	margin: 20px 0px 0px 0px;
 }
 
-.Data{
-	margin: 40px 0px 0px 0px;
+.Titulo{
+	margin: 10px 0px 10px 0px;
 }
+
+.Descrição{
+	margin: 10px 300px 0px 0px;
+}
+
+.Projetos{
+	margin: 10px 0px 0px 0px;	
+}
+
 
 img{
 
 	margin: 20px 0px 0px 0px;
+	border: transparent;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+h1 {
+	font-weight: bold;
 }
 
 .menuitem {
-	
-	padding: 5px;
-	width: 200px;
 	float: left;
-	margin: 0px 0px 0px 0px;
-	border: 1px transparent #000000;
+	width: 200px;
+	margin:0px 0px 0px 0px;
+	border: transparent;
 	padding: 5px;
 	color: #999999;
-	background-color: #403D65;
+	background-color: #0013FF;
 	list-style: none;
 }
 
 .menu-item {
 	float: left;
-	width: 200px;
-	margin: 0px 0px 0px 0px;
-	border: 0px transparent #000000;
-	padding: 5px;
-	color: #ABA4FF;
-	background-color: #403D65;
-	list-style: none;
-	padding: 0.5rem;
-	position: relative;
-	transition: color .5s, background-color .5s;
+	max-width: 1280px;
+	margin: 0px 0px 0px 20px;
+	border: transparent;
+	background-color: #0013FF;
 	padding: 0.5rem;
 	position: relative;
 	transition: color .5s, background-color .5s;
 }
 .menu-item:hover {
-	color: #FFFFFF; 
-	background-color: #00234C;
+	color: #FFFFFF;
+	background-color: #000000;
 	cursor: pointer;
 }
 
