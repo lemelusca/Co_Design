@@ -12,9 +12,10 @@ img{
 }
 
 .menuitem2 {
-	
+	text-align: center;
+	width: 33%;	
 	max-width: 1280px;
-	margin: 0px 0px 0px 100px ;
+	margin: 0px 0px 0px 0px ;
 	padding: 0rem;
 	float: left;
 }
@@ -32,7 +33,8 @@ img{
 }
 
 .group2{
-	margin: 20px 0px 0px 370px;
+	border: 1px solid black;
+	margin: auto;
 }
 
 .menuitem {
