@@ -1,13 +1,6 @@
-/*
-div {	
-	width: 1264px;
-	margin: auto;
-}
-*/
 body {
     line-height: 1;
-	background-color: #A8A7C7;    
-
+	background-color: #A8A7C7;  
 }
 
 main {
@@ -19,18 +12,16 @@ main {
 
 footer{
 	width: 100%;
-	/*max-width: 1280px;*/
-	margin: auto;
+	margin: 20px 0px 0px 0px;
 	padding: auto;
 	background-color: #0013FF;
 }
 
-nav{
-	
+nav{	
 	background-color: #0013FF;
 }
 
-/* colocar em negrito o que não estava em negrito */
+
 strong, b {
     font-weight: bold;
 }
@@ -58,12 +49,8 @@ h1 {
 
 
 img{
-
-	margin: 20px 0px 0px 0px;
-	border: transparent;
+	margin: 10px 0px 0px 0px;
 }
-
-
 
 .menuitem {
 	float: left;
@@ -96,7 +83,6 @@ img{
 	position: absolute;
 	left: 0%;
 	top: 100%;
-
 }
 
 .menu-item:hover .submenu {

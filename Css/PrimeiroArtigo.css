@@ -1,12 +1,14 @@
+body {
+    line-height: 1;
+	background-color: #A8A7C7;  
+}
+
 main {
 	width: 100%;
 	max-width: 1280px;
 	margin: auto;
 	padding: auto;
 }
-
-
-
 
 strong, b {
     font-weight: bold;
@@ -17,16 +19,15 @@ h1 {
 	font-weight: bold;
 }
 
-
-
-img{
-	float: left;
-	
+.imagem{
+	float: left
 }
 
 footer{
-	position: relative;
-	height: 60px;
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+	padding: auto;
+	background-color: #0013FF;
 }
 
 .Voltar{
@@ -105,7 +106,6 @@ footer{
 	visibility: visible;
 }
 
-nav{
-	
+nav{	
 	background-color: #0013FF;
 }
