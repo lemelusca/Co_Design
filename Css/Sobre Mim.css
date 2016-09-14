@@ -1,8 +1,6 @@
-
 body {
     line-height: 1;
 	background-color: #A8A7C7;    
-
 }
 
 main {
@@ -14,9 +12,9 @@ main {
 
 footer{
 	width: 100%;
-	max-width: 1280px;
-	margin: auto;
+	margin: 20px 0px 0px 0px;
 	padding: auto;
+	background-color: #0013FF;
 }
 
 nav{
@@ -42,9 +40,9 @@ nav{
 
 
 img{
-	float: left;
+	
 	margin: 20px 0px 0px 0px;
-	border: transparent;
+	
 }
 
 strong, b {
@@ -69,7 +67,7 @@ h1 {
 .menu-item {
 	float: left;
 	max-width: 1280px;
-	margin: 0px 0px 0px 20px;
+	margin: 0px 0px 0px 0px;
 	border: transparent;
 	background-color: #0013FF;
 	padding: 0.5rem;
@@ -90,6 +88,14 @@ h1 {
 
 }
 
+.imagem{
+	float: left;
+}
+
 .menu-item:hover .submenu {
 	visibility: visible;
+}
+
+.icones{
+	position: center;
 }
