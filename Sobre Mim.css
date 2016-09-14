@@ -1,0 +1,101 @@
+body {
+    line-height: 1;
+	background-color: #A8A7C7;    
+}
+
+main {
+	width: 100%;
+	max-width: 1280px;
+	margin: auto;
+	padding: auto;
+}
+
+footer{
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+	padding: auto;
+	background-color: #0013FF;
+}
+
+nav{
+	
+	background-color: #0013FF;
+}
+
+.Voltar{
+	margin: 20px 0px 0px 0px;
+}
+
+.Titulo{
+	margin: 10px 0px 10px 0px;
+}
+
+.Descrição{
+	margin: 10px 300px 0px 0px;
+}
+
+.Projetos{
+	margin: 10px 0px 0px 0px;	
+}
+
+
+img{
+	
+	margin: 20px 0px 0px 0px;
+	
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.menuitem {
+	float: left;
+	width: 200px;
+	margin:0px 0px 0px 0px;
+	border: transparent;
+	padding: 5px;
+	color: #999999;
+	background-color: #0013FF;
+	list-style: none;
+}
+
+.menu-item {
+	float: left;
+	max-width: 1280px;
+	margin: 0px 0px 0px 0px;
+	border: transparent;
+	background-color: #0013FF;
+	padding: 0.5rem;
+	position: relative;
+	transition: color .5s, background-color .5s;
+}
+.menu-item:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+	cursor: pointer;
+}
+
+.submenu {
+	visibility: hidden;
+	position: absolute;
+	left: 0%;
+	top: 100%;
+
+}
+
+.imagem{
+	float: left;
+}
+
+.menu-item:hover .submenu {
+	visibility: visible;
+}
+
+.icones{
+	position: center;
+}
