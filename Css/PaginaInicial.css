@@ -89,8 +89,12 @@ h1 {
 .menu-item:hover .submenu {
 	visibility: visible;
 }
+.menu-item a{
+	color: #999999;
+}
 
 nav{	
+	color: #0013FF;
 	background-color: #0013FF;
 }
 
@@ -100,8 +104,10 @@ body {
 }
 
 footer{
+	bottom: ab
 	width: 100%;
 	margin: 125px 0px 0px 0px;
 	padding: auto;
 	background-color: #0013FF;
 }
+
