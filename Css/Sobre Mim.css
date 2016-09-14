@@ -1,9 +1,4 @@
-/*
-div {	
-	width: 1264px;
-	margin: auto;
-}
-*/
+
 body {
     line-height: 1;
 	background-color: #A8A7C7;    
@@ -47,7 +42,7 @@ nav{
 
 
 img{
-
+	float: left;
 	margin: 20px 0px 0px 0px;
 	border: transparent;
 }

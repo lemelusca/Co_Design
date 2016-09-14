@@ -19,9 +19,10 @@ main {
 
 footer{
 	width: 100%;
-	max-width: 1280px;
+	/*max-width: 1280px;*/
 	margin: auto;
 	padding: auto;
+	background-color: #0013FF;
 }
 
 nav{
@@ -67,7 +68,7 @@ img{
 .menuitem {
 	float: left;
 	width: 200px;
-	margin:0px 0px 0px 0px;
+	margin:0px 0px 0px 	0px;
 	border: transparent;
 	padding: 5px;
 	color: #999999;
