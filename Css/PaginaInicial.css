@@ -32,10 +32,14 @@ h1 {
 
 .Titulo{
 	margin: 20px 0px 0px 0px;
+	font-family: Open Sans, Arial, sans-serif;
+	font-size: 1.25em;
 }
 
 .Titulo2{
 	margin: 30px 0px 0px 0px;
+	font-family: Open Sans, Arial, sans-serif;
+	font-size: 1.25em;
 }
 
 .Frase{
@@ -54,6 +58,7 @@ h1 {
 	color: #999999;
 	background-color: #0013FF;
 	list-style: none;
+
 }
 
 .menu-item {
