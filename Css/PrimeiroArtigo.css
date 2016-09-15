@@ -1,6 +1,7 @@
 body {
     line-height: 1;
 	background-color: #A8A7C7;  
+	
 }
 
 main {
@@ -38,7 +39,7 @@ footer{
 }
 
 .Nome{
-	margin: 10px 0px 0px -285px;
+	margin: 10px 0px 0px 0px;
 }
 
 .Voltar{
@@ -50,24 +51,24 @@ footer{
 }
 
 .Curso{
-	margin: 20px 0px 0px -100px;
+	margin: 20px 0px 0px 0px;
 }
 
 
 .Semestre{
-	margin: 20px 0px 0px -360px;
+	margin: 20px 0px 0px 0px;
 }
 
 .Tempo{
-	margin: 20px 0px 0px -196px;
+	margin: 20px 0px 0px 0px;
 }
 
 .Design{
-	margin: 20px 0px 0px -245px;
+	margin: 20px 0px 0px 0px;
 }
 
 .Descrição{
-	margin: 20px 360px 0px 390px;
+	margin: 20px 500px 0px 0px;
 }
 
 .voltar{
@@ -76,7 +77,7 @@ footer{
 
 
 .Data{
-	margin: 20px 0px 0px -306px;
+	margin: 20px 0px 0px 0px;
 }
 
 .menuitem {
@@ -122,3 +123,4 @@ footer{
 nav{	
 	background-color: #0013FF;
 }
+
