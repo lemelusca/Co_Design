@@ -112,6 +112,7 @@ footer{
 	position: absolute;
 	left: 0%;
 	top: 100%;
+	background-color: #1b0976;
 
 }
 
@@ -127,6 +128,6 @@ nav{
 	border: solid black 2px;
 }
 
-.blackb{
+.blackb:hover{
 	background-color: black;
 }
