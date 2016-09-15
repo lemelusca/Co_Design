@@ -10,6 +10,9 @@ main {
 	max-width: 1280px;
 	margin: auto;
 	padding: auto;
+	font-family: Open Sans, Verdana;
+	font-size: 14px;
+	text-decoration: none ;
 }
 
 footer{
