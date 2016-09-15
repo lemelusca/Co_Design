@@ -77,7 +77,7 @@ h1 {
 }
 .menu-item:hover {
 	color: #FFFFFC;
-	background-color: #000000 ;
+	background-color: #1b0976 ;
 	cursor: pointer;
 
 }
@@ -102,6 +102,10 @@ h1 {
 .menuitem2 a{
 	color: #000000;
 	text-decoration: none ;
+}
+
+.blackb:hover{
+	background-color: black;
 }
 
 nav{	

@@ -84,9 +84,8 @@ footer{
 	float: left;
 	width: 200px;
 	margin: 0px 0px 0px 0px;
-	border: 1px transparent #000000;
 	color: #999999;
-	background-color: #1b0976;
+	background-color: transparent;
 	list-style: none;
 }
 
@@ -104,7 +103,7 @@ footer{
 }
 .menu-item:hover {
 	color: #FFFFFC;
-	background-color: #000000;
+	background-color: #1b0976;
 	cursor: pointer;
 }
 
@@ -124,3 +123,10 @@ nav{
 	background-color: #1b0976;
 }
 
+.border{
+	border: solid black 2px;
+}
+
+.blackb{
+	background-color: black;
+}

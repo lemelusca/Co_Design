@@ -22,7 +22,6 @@ footer{
 	margin: 20px 0px 0px 0px;
 	padding: auto;
 	background-color: #1b0976;
-	background-color: #1b0976;
 }
 
 nav{	
@@ -89,7 +88,7 @@ img{
 }
 .menu-item:hover {
 	color: #FFFFFC;
-	background-color: #000000;
+	background-color: #1b0976;
 	cursor: pointer;
 }
 
@@ -98,8 +97,17 @@ img{
 	position: absolute;
 	left: 0%;
 	top: 100%;
+	background-color: #1b0976;
 }
 
 .menu-item:hover .submenu {
 	visibility: visible;
+}
+
+.border{
+	border: solid black 2px;
+}
+
+.blackb:hover{
+	background-color: black;
 }
