@@ -39,14 +39,25 @@ nav{
 	margin: 10px 0px 10px 0px;
 }
 
+.Nome{
+	margin: 10px 0px 0px 0px;
+}
+
+.Curso{
+	margin: 20px 0px 0px 0px;
+}
+
+.Semestre{
+	margin: 20px 0px 0px 0px;
+}
+
+.Data{
+	margin: 20px 0px 0px 0px;
+}
+
 .Descrição{
-	margin: 10px 300px 0px 0px;
+	margin: 20px 400px 0px 0px;
 }
-
-.Projetos{
-	margin: 10px 0px 0px 0px;	
-}
-
 
 img{
 	
@@ -100,7 +111,7 @@ h1 {
 }
 
 .imagem{
-	float: left;
+	
 }
 
 .menu-item:hover .submenu {
