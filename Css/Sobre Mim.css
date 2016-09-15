@@ -24,7 +24,7 @@ nav{
 }
 
 .menu-item a{
-	color: #999999;
+	color: #FFFFFC;
 	font-weight: bold;
 	text-decoration: none ;
 }
@@ -73,7 +73,7 @@ h1 {
 .menu-item {
 	float: left;
 	max-width: 1280px;
-	margin: 5px 0px 0px 2px;
+	margin: 0px 0px 0px 0px;
 	border: transparent;
 	background-color: #0013FF;
 	font-family: Open Sans, Verdana;
