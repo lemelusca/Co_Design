@@ -37,6 +37,10 @@ footer{
 	text-decoration: none ;
 }
 
+.Nome{
+	margin: 10px 0px 0px -285px;
+}
+
 .Voltar{
 	margin: 20px 0px 0px 0px;
 }
@@ -46,32 +50,33 @@ footer{
 }
 
 .Curso{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px -100px;
 }
 
 
 .Semestre{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px -360px;
 }
 
 .Tempo{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px -196px;
 }
 
 .Design{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px -245px;
 }
 
 .Descrição{
-	margin: 25px 300px 0px 0px;
+	margin: 20px 360px 0px 390px;
 }
 
 .voltar{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px 800px;
 }
 
+
 .Data{
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px -306px;
 }
 
 .menuitem {
