@@ -59,7 +59,9 @@ h1 {
 .Projetos{
 	margin: 10px 0px 0px 0px;	
 }
-
+.Projetos a{
+	text-decoration: none;
+}
 
 img{
 	margin: 0px 0px 0px 0px;
