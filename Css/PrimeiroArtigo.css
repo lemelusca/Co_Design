@@ -29,7 +29,7 @@ footer{
 	width: 100%;
 	margin: 100px 0px 0px 0px;
 	padding: auto;
-	background-color: #0013FF;
+	background-color: #1b0976;
 }
 
 .menu-item a{
@@ -86,7 +86,7 @@ footer{
 	margin: 0px 0px 0px 0px;
 	border: 1px transparent #000000;
 	color: #999999;
-	background-color: #0013FF;
+	background-color: #1b0976;
 	list-style: none;
 }
 
@@ -94,7 +94,7 @@ footer{
 	float: left;
 	max-width: 1280px;
 	margin: 0px 0px 0px 0px;
-	background-color: #0013FF;
+	background-color: #1b0976;
 	padding: 0.5rem;
 	font-family: Open Sans, Verdana;
 	color: #999999;
@@ -121,6 +121,6 @@ footer{
 }
 
 nav{	
-	background-color: #0013FF;
+	background-color: #1b0976;
 }
 

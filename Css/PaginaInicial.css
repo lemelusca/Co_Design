@@ -57,7 +57,7 @@ h1 {
 	width: 200px;
 	margin: 0px 0px 0px 0px;
 	color: #999999;
-	background-color: #0013FF;
+	background-color: #1b0976;
 	font-family: Open Sans, Verdana;
 	list-style: none;
 
@@ -67,7 +67,7 @@ h1 {
 	float: left;
 	max-width: 1280px;
 	margin: 0px 0px 0px 0px;
-	background-color: #0013FF;
+	background-color: #1b0976;
 	padding: 0.5rem;
 	font-family: Open Sans, Verdana;
 	font-size: 0.8rem;
@@ -105,8 +105,8 @@ h1 {
 }
 
 nav{	
-	color: #0013FF;
-	background-color: #0013FF;
+	color: #FFFFFC;
+	background-color: #1b0976;
 }
 
 body {
@@ -116,10 +116,9 @@ body {
 }
 
 footer{
-	bottom: ab
 	width: 100%;
 	margin: 125px 0px 0px 0px;
 	padding: auto;
-	background-color: #0013FF;
+	background-color: #1b0976;
 }
 

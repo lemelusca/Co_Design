@@ -17,12 +17,12 @@ footer{
 	width: 100%;
 	margin: 20px 0px 0px 0px;
 	padding: auto;
-	background-color: #0013FF;
+	background-color: #1b0976;
 }
 
 nav{
 	
-	background-color: #0013FF;
+	background-color: #1b0976;
 }
 
 .menu-item a{
@@ -79,7 +79,7 @@ h1 {
 	margin:0px 0px 0px 0px;
 	border: transparent;
 	color: #999999;
-	background-color: #0013FF;
+	background-color: #1b0976;
 	list-style: none;
 }
 
@@ -88,7 +88,7 @@ h1 {
 	max-width: 1280px;
 	margin: 0px 0px 0px 0px;
 	border: transparent;
-	background-color: #0013FF;
+	background-color: #1b0976;
 	font-family: Open Sans, Verdana;
 	color: #FFFFFC;
 	font-size: 0.8rem;
