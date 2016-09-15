@@ -22,7 +22,6 @@ footer{
 	margin: 20px 0px 0px 0px;
 	padding: auto;
 	background-color: #1b0976;
-	background-color: #1b0976;
 }
 
 nav{	
@@ -60,7 +59,9 @@ h1 {
 .Projetos{
 	margin: 10px 0px 0px 0px;	
 }
-
+.Projetos a{
+	text-decoration: none;
+}
 
 img{
 	margin: 0px 0px 0px 0px;
