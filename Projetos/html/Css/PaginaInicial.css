@@ -1,0 +1,131 @@
+main {
+	width: 100%;
+	max-width: 1280px;
+	margin: auto;
+	padding: auto;
+	font-family: Open Sans, Verdana;
+	font-size: 1.0rem;
+	text-decoration: none;
+}
+
+
+img{
+
+	margin: 0px 0px 0px 0px;
+}
+
+
+strong, b {
+    font-weight: bold;
+}
+
+
+h1 {
+	font-weight: bold;
+}
+
+.menuitem2 {
+	text-align: center;
+		
+	max-width: 1280px;
+	margin: 40px 0px 0px 74px ;
+	padding: 0rem;
+	float: left;
+}
+
+.Titulo{
+	margin: 20px 0px 0px 0px;
+	font-family: Open Sans, Arial, sans-serif;
+	font-size: 2.0rem;
+}
+
+.Titulo2{
+	margin: 30px 0px 0px 0px;
+	font-family: Open Sans, Verdana;
+	font-size: 1.25em;
+}
+
+.Frase{
+	margin: 20px 0px 0px 0px;
+}
+
+.group2{
+	
+	margin: 0px 0px 0px 205px;
+}
+
+.menuitem {
+	float: left;
+	width: 200px;
+	margin: 0px 0px 0px 0px;
+	color: #999999;
+	background-color: #1b0976;
+	font-family: Open Sans, Verdana;
+	list-style: none;
+
+}
+
+.menu-item {
+	float: left;
+	max-width: 1280px;
+	margin: 0px 0px 0px 0px;
+	background-color: #1b0976;
+	padding: 0.5rem;
+	font-family: Open Sans, Verdana;
+	font-size: 0.8rem;
+	position: relative;
+	transition: color .5s, background-color .5s;
+
+}
+.menu-item:hover {
+	color: #FFFFFC;
+	background-color: #1b0976 ;
+	font-family: Open Sans, Verdana;
+	cursor: pointer;
+
+}
+
+.submenu {
+	visibility: hidden;
+	position: absolute;
+	right: 0%;
+	top: 100%;
+	
+}
+
+.menu-item:hover .submenu {
+	visibility: visible;
+}
+.menu-item a{
+	color: #FFFFFC;
+	font-weight: bold;
+	text-decoration: none ;
+}
+
+.menuitem2 a{
+	color: #000000;
+	text-decoration: none ;
+}
+
+.blackb:hover{
+	background-color: black;
+}
+
+nav{	
+	color: #FFFFFC;
+	background-color: #1b0976;
+}
+
+body {
+    line-height: 1;
+	background-color: #A8A7C7;
+
+}
+
+footer{
+	width: 100%;
+	margin: 125px 0px 0px 0px;
+	padding: auto;
+	background-color: #1b0976;
+}
+
