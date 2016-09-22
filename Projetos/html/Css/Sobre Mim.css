@@ -17,7 +17,7 @@ footer{
 	width: 100%;
 	margin: 20px 0px 0px 0px;
 	padding: auto;
-	background-color: #1b0976;
+	background-color: black;
 }
 
 nav{
@@ -74,19 +74,19 @@ h1 {
 }
 
 .menuitem {
-	float: left;
+	float: center;
 	width: 200px;
 	margin:0px 0px 0px 0px;
 	border: transparent;
-	color: #999999;
-	background-color: #1b0976;
+	color: black;
+	background-color: black;
 	list-style: none;
 }
 
 .menu-item {
 	float: left;
 	max-width: 1280px;
-	margin: 0px 0px 0px 0px;
+	margin: 0px 20px 0px 0px;
 	background-color: #1b0976;
 	font-family: Open Sans, Verdana;
 	color: #FFFFFC;
