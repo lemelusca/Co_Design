@@ -22,7 +22,7 @@ footer{
 
 nav{
 	
-	background-color: #1b0976;
+	background-color: #000000;
 }
 
 .menu-item a{
@@ -85,9 +85,9 @@ h1 {
 
 .menu-item {
 	float: left;
-	max-width: 1280px;
-	margin: 0px 20px 0px 0px;
-	background-color: #1b0976;
+	max-width: auto	;
+	margin: 10px 10px 10px 30px;
+	background-color: #000000;
 	font-family: Open Sans, Verdana;
 	color: #FFFFFC;
 	font-size: 0.8rem;
@@ -97,16 +97,18 @@ h1 {
 }
 .menu-item:hover {
 	color: #FFFFFF;
-	background-color: #1b0976;
+	background-color: #000000;
 	cursor: pointer;
 }
 
 .submenu {
 	visibility: hidden;
 	position: absolute;
+	
+	margin: 0px -10px 0px 0px;
 	left: 0%;
 	top: 100%;
-	background-color: #1b0976;
+	background-color: #000000;
 }
 
 .imagem{
