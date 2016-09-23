@@ -32,31 +32,31 @@ nav{
 }
 
 .Voltar{
-	margin: 20px 0px 0px 340px;
+	margin: 20px 0px 0px 390px;
 }
 
 .Titulo{
-	margin: 10px 0px 10px 340px;
+	margin: 10px 0px 10px 390px;
 }
 
 .Nome{
-	margin: 10px 0px 0px 340px;
+	margin: 10px 0px 0px 390px;
 }
 
 .Curso{
-	margin: 20px 0px 0px 340px;
+	margin: 20px 0px 0px 390px;
 }
 
 .Semestre{
-	margin: 20px 0px 0px 340px;
+	margin: 20px 0px 0px 390px;
 }
 
 .Data{
-	margin: 20px 0px 0px 340px;
+	margin: 20px 0px 0px 390px;
 }
 
 .Descrição{
-	margin: 20px 400px 0px 340px;
+	margin: 20px 400px 0px 390px;
 }
 
 img{
@@ -86,7 +86,7 @@ h1 {
 .menu-item {
 	float: left;
 	max-width: auto	;
-	margin: 10px 10px 10px 30px;
+	margin: 10px 10px 10px 60px;
 	background-color: #000000;
 	font-family: Open Sans, Verdana;
 	color: #FFFFFC;
@@ -125,7 +125,7 @@ h1 {
 
 .border{
 	border: solid black 2px;
-	margin: 0px 400px 0px 340px;
+	margin: 0px 400px 0px 390px;
 }
 
 .blackb:hover{
