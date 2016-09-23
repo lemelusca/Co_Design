@@ -97,7 +97,7 @@ h1 {
 
 .submenu {
 	visibility: hidden;
-	position: 0px 0px 0px 0px;
+	position: absolute;
 	right: 0%;
 	top: 100%;
 	
@@ -158,4 +158,3 @@ footer{
 	background-color: black;
 	font-family: Open Sans, Verdana;
 	list-style: none;
-	border: solid black;
