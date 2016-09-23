@@ -19,7 +19,7 @@ main {
 
 footer{
 	width: 100%;
-	margin: 20px 0px 0px 0px;
+	margin: 70px 0px 0px 0px;
 	padding: auto;
 	background-color: black;
 }
@@ -81,7 +81,7 @@ img{
 .menu-item {
 	float: left;
 	max-width: auto;
-	margin: 10px 10px 10px 60px;
+	margin: 10px 10px 0px 45px;
 	background-color: #000000;
 	font-family: Open Sans, Verdana;
 	color: #FFFFFC;
